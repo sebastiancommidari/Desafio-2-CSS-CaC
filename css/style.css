@@ -1,0 +1,51 @@
+/* font-family: 'Roboto Mono', monospace;
+font-family: 'Source Sans Pro', sans-serif; */
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.anclas{
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+    margin-right: 4px;
+}
+
+.navegador {
+    text-align: right;
+    width: 100%;
+    background-color: lightslategray;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: 0;
+}
+
+img{
+    width: 115px;
+    height: 115px;
+}
+
+
+.section {
+    margin-right: 20%;
+    margin-left: 20%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+footer{
+    background: lightslategray;
+    height: auto;
+    width: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    
+    color: white;
+    text-align: center;
+    }
+
+    .footer-bottom span{
+    text-transform: uppercase;
+    opacity: .7;
+    font-weight: 200;
+}
+
